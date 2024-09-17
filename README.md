@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Emocine, a cinema website<br>🌱 I’m currently learning Angular and Node.js
+🔭 I’m currently working on a UEFA Champions League: League phase draw simulator with Java<br>🌱 I’m currently learning Angular, Node.js and Java.
 
 
 ## 🌐 Socials:
